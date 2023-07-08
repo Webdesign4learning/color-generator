@@ -30,9 +30,8 @@ To get started with Restaurant Explorer, follow these steps:
 5. Access the application in your browser at http://localhost:3000
    
 ## Features
-User-friendly interface: The generator provides a simple and intuitive interface for users to input their desired color.
-Real-time preview: As the user enters a color value, the spectrum is dynamically updated to reflect the chosen color and its shades.
-Adjustable spectrum size: Users can easily customize the size of the spectrum to fit their preferences.
+- User-friendly interface: The generator provides a simple and intuitive interface for users to input their desired color.
+- Real-time preview: As the user enters a color value, the spectrum is dynamically updated to reflect the chosen color and its shades.
 
 ## Project Background
 
